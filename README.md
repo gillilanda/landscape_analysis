@@ -1,7 +1,7 @@
 Landscape Analysis
 ==============
 
-Project to build landscape analysis tools.
+Python scripts to automate landscape analysis tasks. 
 
 Who To Contact
 -------------
