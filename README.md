@@ -1,4 +1,4 @@
 Landscape Analysis
 ----------
 
-Python scripts designed to automate landscape analysis tasks. 
+Jupyter notebooks designed to automate landscape analysis tasks. 
