@@ -1,6 +1,6 @@
 # Landscape Analysis
 
-Code created to automate various tasks for thesis project.
+Code created to automate various tasks in my thesis project.
 
 circular_plots.m
 ------------------
